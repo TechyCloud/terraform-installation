@@ -8,11 +8,11 @@ Download link of [Terraform Setup](https://www.terraform.io/downloads.html)
 
 Download the package using below command.
 
-> wget <package url>
+> wget **package url**
 
 **Unzip** and install the package using the belwo command.
 
-> unzip <downloaded package> -d /usr/local/bin
+> unzip **downloaded package** -d /usr/local/bin
   
   Then you can confirm the installation by checking the version.
   
